@@ -6,6 +6,11 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      GmarketSansLight: ['GmarketSansLight'],
+      GmarketSansMedium: ['GmarketSansMedium'],
+      GmarketSansBold: ['GmarketSansBold']
+    }
   },
   plugins: [],
 }
